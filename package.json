@@ -23,11 +23,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atulbhingarde/bamazon2.git"
+    "url": "https://github.com/Robert1959/bamazon.git"
   },
   "bugs": {
-    "url": "https://github.com/atulbhingarde/bamazon2/issues"
+    "url": "https://github.com/Robert1959/bamazon/issues.git"
   },
-  "homepage": "https://github.com/atulbhingarde/bamazon2#readme",
+  "homepage": "https://github.com/Robert1959/bamazon#readme",
   "description": ""
 }
